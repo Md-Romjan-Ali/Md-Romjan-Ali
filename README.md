@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGX26hMplqpYQ/profile-displaybackgroundimage-shrink_200_800/B56ZzooMF1HoAU-/0/1773429376894?e=1776902400&v=beta&t=2xN-9aaK2Zi9FNeMU3aDUHOLrHsgdVfMt1Gfj3BjnYM" alt="">
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQGX26hMplqpYQ/profile-displaybackgroundimage-shrink_200_800/B56ZzooMF1HoAU-/0/1773429376894?e=1776902400&v=beta&t=2xN-9aaK2Zi9FNeMU3aDUHOLrHsgdVfMt1Gfj3BjnYM](https://media.licdn.com/dms/image/v2/D5616AQGX26hMplqpYQ/profile-displaybackgroundimage-shrink_350_1400/B56ZzooMF1HoAY-/0/1773429376894?e=1778716800&v=beta&t=NIsKDzPfe68bPHWhsI7pKz5y8UqG4B6gRkiXkRKr6yU)" alt="">
 <h1 align="center">Hi, I'm Md Romjan Ali</h1>
 <h3 align="center">A passionate marn-stack developer from Bangladesh</h3>
 
