@@ -16,10 +16,10 @@
 
 I'm a passionate **MERN Stack Developer** who loves building clean, performant web applications from database to UI. I focus on writing maintainable code and delivering smooth user experiences.
 
-- 🔭 Currently building full-stack apps with **Next.js** and **MongoDB**
-- 🌱 Always exploring better patterns in **React** and **Node.js**
-- 💬 Ask me about **React, Next.js, Express, MongoDB, JavaScript**
-- 📫 Reach me at **mdromjanali224512@gmail.com**
+-  Currently building full-stack apps with **Next.js** and **MongoDB**
+-  Always exploring better patterns in **React** and **Node.js**
+-  Ask me about **React, Next.js, Express, MongoDB, JavaScript**
+-  Reach me at **mdromjanali224512@gmail.com**
 
 ---
 
