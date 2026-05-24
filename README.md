@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://i.ibb.co.com/Xk7YCjKW/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="Banner" width="100%" />
+</div>
+<div align="center">
 
 # Md Romjan Ali
 
