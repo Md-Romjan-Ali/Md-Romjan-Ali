@@ -1,75 +1,168 @@
 <div align="center">
   <img src="https://i.ibb.co.com/Xk7YCjKW/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="Banner" width="100%" />
 </div>
+
 <div align="center">
 
 # Md Romjan Ali
 
-**MERN Stack Developer** · Bangladesh 🇧🇩
+### Full Stack MERN Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-romjan-ali)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mdromjanali224512@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=md-romjan-ali&style=flat&color=0e75b6)](https://github.com/md-romjan-ali)
+Passionate about building modern, scalable, and user-friendly web applications.
+
+ Bangladesh
+<div align="center">
+
+<a href="https://linkedin.com/in/md-romjan-ali">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mdromjanali224512@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/md-romjan-ali">
+  <img src="https://komarev.com/ghpvc/?username=md-romjan-ali&style=for-the-badge&color=0e75b6" />
+</a>
+
+</div>
+
+
 
 </div>
 
 ---
 
-## About Me
+#  About Me
 
-I'm a passionate **MERN Stack Developer** who loves building clean, performant web applications from database to UI. I focus on writing maintainable code and delivering smooth user experiences.
+I am a passionate **MERN Stack Developer** focused on building clean, performant, and responsive full-stack web applications. I enjoy turning ideas into real-world projects while continuously learning modern technologies and improving my development skills.
 
--  Currently building full-stack apps with **Next.js** and **MongoDB**
--  Always exploring better patterns in **React** and **Node.js**
--  Ask me about **React, Next.js, Express, MongoDB, JavaScript**
--  Reach me at **mdromjanali224512@gmail.com**
+###  Current Activities
 
----
-
-## Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+-  Exploring advanced features of **Next.js**
+-  Building full-stack MERN applications
+-  Working on modern booking and e-commerce platforms
+-  Improving problem-solving and backend development skills
+-  Learning scalable application architecture
 
 ---
 
-## GitHub Stats
+#  Tech Stack
+
+##  Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+</p>
+
+---
+
+##  Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+---
+
+##  Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+#  GitHub Statistics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=md-romjan-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-romjan-ali&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=md-romjan-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-romjan-ali&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-romjan-ali&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-romjan-ali&theme=tokyonight&hide_border=true" />
 
 </div>
 
+
+
 ---
+
+#  Featured Projects
+
+##  StudyRoom
+
+A modern study room booking platform where users can explore study spaces, book rooms, and manage reservations efficiently.
+
+### 🔗 Live Site
+https://study-nook-delta.vercel.app
+
+
+###  Technologies
+Next.js • React • MongoDB • Express.js • Tailwind CSS
+
+---
+##  Run Locally
+
+Follow these steps to run the project on your local machine.
+
+###  Clone the Repository
+
+## Clent
+```bash
+git clone https://github.com/Md-Romjan-Ali/StudyNook
+```
+
+## Server
+```bash
+git clone https://github.com/Md-Romjan-Ali/StudyNook-server
+```
+
+###  Navigate to the Project Folder
+
+```bash
+cd project-name
+```
+
+###  Install Dependencies
+
+```bash
+npm install
+```
+
+###  Setup Environment Variables
+
+Create a `.env.local` file in the root directory and add your environment variables.
+
+```env
+MONGODB_URI=your_mongodb_uri
+NEXT_PUBLIC_API_URL=your_api_url
+```
+
+###  Run the Development Server
+
+```bash
+npm run dev
+```
+
+###  Open in Browser
+
+Visit:
+
+```bash
+http://localhost:3000
+```
+
 
 <div align="center">
 
-*Open to collaborating on interesting projects — feel free to reach out!*
+###  “Code. Learn. Build. Improve. Repeat.”
+
+Open to collaboration and exciting opportunities.
 
 </div>
