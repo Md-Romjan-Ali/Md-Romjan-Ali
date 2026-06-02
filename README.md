@@ -140,8 +140,19 @@ npm install
 Create a `.env.local` file in the root directory and add your environment variables.
 
 ```env
-MONGODB_URI=your_mongodb_uri
-NEXT_PUBLIC_API_URL=your_api_url
+for client side
+NEXT_PUBLIC_SERVER_URI=http://localhost:5000
+BETTER_AUTH_SECRET=
+BETTER_AUTH_URL=http://localhost:3000
+MONGODB_URI=
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+
+For Server;
+MONGODB_URI=
+CLIENT_URI=http://localhost:3000
+PORT=5000
+
 ```
 
 ###  Run the Development Server
