@@ -6,7 +6,7 @@
 
 # Md Romjan Ali
 
-### Full Stack MERN Developer
+### MERN Stack Web Developer
 
 Passionate about building modern, scalable, and user-friendly web applications.
 
