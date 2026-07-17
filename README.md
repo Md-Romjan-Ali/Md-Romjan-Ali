@@ -95,83 +95,130 @@ I am a passionate **MERN Stack Developer** focused on building clean, performant
 
 #  Featured Projects
 
-##  StudyRoom
+# 🏠 Property Rental Booking Platform
 
-A modern study room booking platform where users can explore study spaces, book rooms, and manage reservations efficiently.
+A modern and responsive property rental booking platform that connects property owners with tenants. The application allows users to browse available properties, view detailed information, make booking requests, manage favorites, and track bookings through role-based dashboards.
 
-### 🔗 Live Site
-https://study-nook-delta.vercel.app
+## 🌐 Live Demo
 
-
-###  Technologies
-Next.js • React • MongoDB • Express.js • Tailwind CSS
+🔗 https://property-renteal-booking-platformcl.vercel.app/
 
 ---
-##  Run Locally
 
-Follow these steps to run the project on your local machine.
+## 📖 Overview
 
-###  Clone the Repository
+The Property Rental Booking Platform simplifies the process of renting properties by providing an intuitive interface for tenants, property owners, and administrators. Users can search for rental properties, book available listings, manage their bookings, and securely access personalized dashboards based on their roles.
 
-## Clent
-```bash
-git clone https://github.com/Md-Romjan-Ali/StudyNook
-```
+---
 
-## Server
-```bash
-git clone https://github.com/Md-Romjan-Ali/StudyNook-server
-```
+## ✨ Key Features
 
-###  Navigate to the Project Folder
+### 👤 Authentication
+- Secure user registration and login
+- Role-based access (Admin, Owner, Tenant)
+- Protected routes for authenticated users
 
-```bash
-cd project-name
-```
+### 🏡 Property Management
+- Browse all available rental properties
+- View complete property details
+- Search and filter properties
+- Add properties to favorites
+- Property image gallery
 
-###  Install Dependencies
+### 📅 Booking System
+- Request property bookings
+- Track booking status
+- View booking history
+- Prevent duplicate bookings
 
-```bash
-npm install
-```
+### ❤️ Favorites
+- Save favorite properties
+- Remove saved properties anytime
 
-###  Setup Environment Variables
+### 📊 Dashboards
 
-Create a `.env.local` file in the root directory and add your environment variables.
+#### Tenant Dashboard
+- View booked properties
+- Manage favorite properties
+- Update profile information
 
-```env
-for client side
-NEXT_PUBLIC_SERVER_URI=http://localhost:5000
-BETTER_AUTH_SECRET=
-BETTER_AUTH_URL=http://localhost:3000
-MONGODB_URI=
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
+#### Owner Dashboard
+- Add new properties
+- Edit property information
+- Manage booking requests
+- View listed properties
 
-For Server;
-MONGODB_URI=
-CLIENT_URI=http://localhost:3000
-PORT=5000
+#### Admin Dashboard
+- Manage all users
+- Monitor all properties
+- Approve or remove listings
+- Manage platform activities
 
-```
+---
 
-###  Run the Development Server
+## 🚀 Highlights
 
-```bash
-npm run dev
-```
+- Fully Responsive Design
+- Role-Based Authorization
+- Secure Authentication
+- Dynamic Property Search
+- Booking Management System
+- Favorite Property System
+- Clean & Modern UI
+- Real-Time User Experience
+- Optimized Performance
+- Stripe Payment Integration
+- Property Reviews & Ratings
+- Google Maps Integration
 
-###  Open in Browser
+---
 
-Visit:
+## 🛠️ Technologies Used
 
-```bash
-http://localhost:3000
-```
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- Tailwind CSS
+- HeroUi
 
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
 
-<div align="center">
+### Deployment
+- Vercel (Client)
+- Vercel (Server)
+- MongoDB Atlas
 
+---
+
+## 📸 Main Pages
+
+- Home
+- All Properties
+- Property Details
+- Favorites
+- Booking History
+- Tenant Dashboard
+- Owner Dashboard
+- Admin Dashboard
+- Login
+- Register
+- Profile
+
+---
+
+## 🎯 Future Improvements
+
+- Email Notifications
+- Real-Time Chat
+- Advanced Property Filtering
+- Property Availability Calendar
+
+---
 ###  “Code. Learn. Build. Improve. Repeat.”
 
 Open to collaboration and exciting opportunities.
